@@ -1,0 +1,9 @@
+---
+layout: post
+title: Test Link
+category: blog
+featured-img: test_03
+permalink: test/link
+---
+
+This is a file to test permalink option.

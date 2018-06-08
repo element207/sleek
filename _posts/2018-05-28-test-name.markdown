@@ -1,0 +1,13 @@
+---
+layout: post
+title: test file name of markdown file
+featured-img: testlink
+permalink: test/filename
+date: 2018-05-28 12:14:00 +0800
+---
+
+this is a file to test file name of markdown.
+![My Image]({{"/assets/img/posts/sleek.jpg"}})  
+
+![url]({{"https://images.pexels.com/photos/36764/marguerite-daisy-beautiful-beauty.jpg?auto=compress&cs=tinysrgb&h=350"}})  
+
